@@ -43,6 +43,7 @@
   },
   "devDependencies": {
     "json-server": "^0.16.3",
+    "react-lazyload": "^3.2.0",
     "redux-devtools-extension": "^2.13.9"
   }
 }
